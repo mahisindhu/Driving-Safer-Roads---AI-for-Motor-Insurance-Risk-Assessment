@@ -86,3 +86,23 @@ cd frontend
 flutter pub get
 flutter run
 ```
+
+
+## 🛡 Security & Compliance
+
+- 🔒 *Data Encryption*: All sensitive data is encrypted before storage.  
+- 🛠 *Role-Based Access: Separate user roles for **drivers & insurers*.  
+- 📜 *Privacy-First Approach*: Users have full control over their data.  
+
+## 📢 Future Enhancements
+- 📡 *IoT Integration* for real-time GPS tracking.  
+- 🚀 *Machine Learning for predictive risk analysis*.  
+- 🔄 *Blockchain for transparent insurance claims*.  
+
+---
+
+## 🎯 Our Mission: "Smart Driving, Safer Roads!"
+
+💡 BimaRakshak AI aims to *reduce road accidents, promote responsible driving, and make insurance policies more accurate & fair*.
+
+📩 *Contributions & Feedback*: Open-source contributions are welcome! Reach out to us for ideas, improvements, and collaborations. 🚀
